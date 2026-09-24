@@ -4,8 +4,8 @@ patches {
     about {
         name = "Dumpert No Ads Patches"
         description = "Patches for Dumpert"
-        source = "https://github.com/UserXYZ/morphe-patches"
-        author = "Awesome dev"
+        source = "https://github.com/ns1207/nl.dumpert.nopatch"
+        author = "ns1207"
         contact = "na"
         website = "na"
         license = "GPLv3"
